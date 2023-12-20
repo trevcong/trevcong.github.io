@@ -1,0 +1,32 @@
+ {
+    font-family: Helvetica, sans-serif;
+  }
+
+h4 { 
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#site-title {
+    background-image: url("/resources/images/pattern.jpeg");
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+}
+
+.brush {
+    background-color: mediumspringgreen;
+}
+.frames{
+    background-color: lightcoral;
+}
+.paint{
+    background-color: skyblue;
+}
+.pricetag{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
